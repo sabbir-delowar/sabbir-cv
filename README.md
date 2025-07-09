@@ -59,6 +59,14 @@ Environmental data analyst with expertise in Earth observation and environmental
 
 ## KEY PROJECTS
 
+### Automated District-level Climate Hazard Mapping for Bangladesh  
+*Personal project*  
+*2025*
+
+- Developed a fully automated open-source pipeline for spatial hazard mapping at district scale, using ERA5, FABDEM, and Python.
+- Automated end-to-end download, processing, scoring, and map generation for rainfall, flood (rainfall + HAND topography), and heatwave hazards (2020–2024).
+- Produced relative hazard scores and maps for all 64 districts; modular workflow enables extension to other hazards (sea level rise, cyclone, etc.).
+
 ### Windermere Catchment Analysis  
 *Project Lead, Map Impact | Supported by UK Space Agency*  
 *September 2023 – February 2024*
@@ -114,7 +122,8 @@ Environmental data analyst with expertise in Earth observation and environmental
 
 ## LINKS
 
-- [Map Impact](https://www.mapimpact.io/)  
+- [Map Impact](https://www.mapimpact.io/)
+- [Bangladesh Climate Hazard Mapping Project] (https://github.com/sabbir-delowar/climate-hazard)
 - [Windermere Project](https://www.mapimpact.io/project/windermere-catchment-analysis/)  
 - [Planet](https://www.planet.com/)  
 - [BBC Coverage](https://www.bbc.co.uk/news/science-environment-68953523)  
